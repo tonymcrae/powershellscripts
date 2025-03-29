@@ -1,0 +1,1 @@
+write-host 'first script on github'
